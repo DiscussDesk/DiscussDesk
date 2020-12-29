@@ -1,9 +1,5 @@
 ### Hi, I'm from <a href="https://www.discussdesk.com/">DiscussDesk</a> 👋
-
-<!--
-**DiscussDesk/DiscussDesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<hr/>
 
 - 🔭 I’m currently working on my blog <a href="https://www.discussdesk.com/">DiscussDesk.com</a>, a programming blog.
 - 🔭 Technology stack used by me: PHP, Javascript, CodeIgniter, Elasticsearch, Redis, etc.
@@ -15,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:info@discussdesk.com">info@discussdesk.com</a>
 - 😄 Join my Facebook group, <a href="https://www.facebook.com/groups/discussdeskvip">Exclusively for programmers & developers</a> 
 - ⚡ Fun fact: I am spending 14 hours daily infront of my desktop and doing/learning new technology
--->
