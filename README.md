@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my blog <a href="https://www.discussdesk.com/">DiscussDesk.com</a>, a programming blog.
 - 🔭 Technology stack used by me: PHP, Javascript, CodeIgniter, Elasticsearch, Redis, etc.
-- 🌱 I’m currently learning Elasticsearch, Laravel
+- 🌱 I’m currently learning Elasticsearch, Machine Learning
 - 🌱 My expertise: Product development, Working with startups
 - 👯 I’m looking to collaborate on my blog <a href="https://www.discussdesk.com/">DiscussDesk.com</a>
 - 🤔 I’m looking for help with latest technology trends.
